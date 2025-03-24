@@ -1,9 +1,9 @@
 import 'package:exam/screens/welcome_screen.dart';
 import 'package:exam/utils/app_colors.dart';
-import 'package:exam/utils/app_images.dart';
+
 import 'package:exam/utils/app_text_style.dart';
 import 'package:exam/utils/flexable_size_pixels.dart';
-import 'package:exam/widgets/button.dart';
+
 import 'package:exam/widgets/skip_button.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';

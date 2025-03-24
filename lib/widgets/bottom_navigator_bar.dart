@@ -70,7 +70,7 @@ class CustomBottomNavBar extends StatelessWidget {
               ),
               SizedBox(height: 5.h),
               Text(
-                "Library",
+                "Library",                                    
                 style: AppStyles.poppins500_12_center.copyWith(
                   color: index == 2 ? MyColor.blue : Colors.grey,
                 ),
