@@ -67,7 +67,7 @@ class ListenScreen extends StatelessWidget {
                   ),
                 ),
                 Container(
-                  width: 220.w,
+                  width: 218.w,
                   height: 4.h,
                   decoration: BoxDecoration(
                     color: MyColor.background,

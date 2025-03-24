@@ -56,7 +56,7 @@ class ProfileScreen extends StatelessWidget {
               child: Column(
                 children: [
                   Container(
-                    height: 486.h,
+                    height: 501.h,
                     width: 335.w,
                     decoration: BoxDecoration(
                       border: Border.all(width: 1.w, color: MyColor.background),
@@ -156,7 +156,7 @@ class ProfileScreen extends StatelessWidget {
                   ),
                   SizedBox(height: 24.h),
                   Container(
-                    height: 431.h,
+                    height: 450.h,
                     width: 335.w,
                     decoration: BoxDecoration(
                       border: Border.all(width: 1.w, color: MyColor.background),
